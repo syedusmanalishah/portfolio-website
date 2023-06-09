@@ -1,3 +1,5 @@
+
+import React  from 'react';
 import './App.scss';
 import AOS from 'aos';
 import "aos/dist/aos.css";
