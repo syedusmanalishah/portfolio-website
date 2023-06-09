@@ -17,7 +17,7 @@ const Footer = () => {
 <Row className=''>
 <Col lg={2} className ="footer-logo " >
 
-       <Link to="/" >
+       <Link to="/portfolio-website" >
           <img src="https://demo.phlox.pro/freelancer/wp-content/uploads/sites/272/2021/02/logo-header.svg" alt="Logo" style={{ height: '40px' }} />
           </Link> 
   

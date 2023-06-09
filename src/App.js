@@ -27,7 +27,7 @@ function App() {
        <BrowserRouter>
       <Base>
         <Routes>
-          <Route index path="/" element={<Home/>} />
+          <Route index path="/portfolio-website" element={<Home/>} />
           <Route path="/portfolio" element={<Portfolioa/>} />
           <Route path="/contact" element={<Contactus/>} />
           

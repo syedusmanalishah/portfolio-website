@@ -10,7 +10,7 @@ const Header = () => {
     <>
        <nav className="navbar navbar-expand-lg  bg-#25272b" style={{zIndex: '1'}} id="navbar_top">
         <div className="container">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/portfolio-website">
           <img src="https://demo.phlox.pro/freelancer/wp-content/uploads/sites/272/2021/02/logo-header.svg" alt="Logo" style={{ height: '40px'  }} />
 
           </Link>
@@ -28,7 +28,7 @@ const Header = () => {
           <div className="collapse navbar-collapse  align-items-center" id="navbarSupportedContent">
             <ul className="navbar-nav pd-120  mr-auto text-center mb-2   mb-lg-0">
               <li className="nav-item ">
-                <Link className="nav-link " aria-current="page" to="/">
+                <Link className="nav-link " aria-current="page" to="/portfolio-website">
                 Home
                 </Link>
               </li>
